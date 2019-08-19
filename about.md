@@ -12,6 +12,6 @@ My skills include: JS, React, Git, Linux, PHP, Ruby, Python, Blockchain, Vue.js 
 
 I am also happy to learn new things and want to deepen my skills in Math, Algorithm, Functional Programming, and Data Science. 
 
-LinkedIn: [https://github.com/agusputra](https://www.linkedin.com/in/agus-syahputra)
+LinkedIn: [https://www.linkedin.com/in/agus-syahputra](https://www.linkedin.com/in/agus-syahputra)
 <br>
 Github: [https://github.com/agusputra](https://github.com/agusputra)

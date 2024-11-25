@@ -1,3 +1,10 @@
+---
+layout: post
+title: Laravel env vs CreateReactApp env
+date: '2024-11-25 19:57:54 +0700'
+categories: jekyll update
+---
+
 The `APP_ENV` variable in Laravel functions as a **switch or indicator** rather than something that directly and automatically impacts behavior. This contrasts sharply with how `NODE_ENV` in Create React App (CRA) fundamentally changes the application's runtime behavior (e.g., `development` enables hot-reloading, detailed errors, and warnings; `production` triggers minification, optimization, and stricter settings during the build).
 
 ---

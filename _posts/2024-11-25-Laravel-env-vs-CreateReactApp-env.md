@@ -35,12 +35,13 @@ In CRA, `NODE_ENV` **actively triggers changes in both runtime and build behavio
 ---
 
 ### **Key Differences Between Laravel and CRA**
-| Feature            | Laravel (`APP_ENV`)                | Create React App (`NODE_ENV`)        |
-|--------------------|------------------------------------|-------------------------------------|
-| **Purpose**        | Marker for environment-specific settings. | Directly impacts runtime and build behavior. |
-| **Automatic Impact** | None, unless explicitly coded.     | Triggers optimizations and development features. |
-| **Used For**       | Conditional logic in app configuration. | Configuring webpack, libraries, and runtime settings. |
-| **Defaults**       | No automatic behaviors, requires related variables (`APP_DEBUG`, etc.). | Predefined behaviors for `development` and `production`. |
+
+| Feature | Laravel (`APP_ENV`) | Create React App (`NODE_ENV`) |
+| --- | --- | --- |
+| **Purpose** | Marker for environment-specific settings. | Directly impacts runtime and build behavior. |
+| **Automatic Impact** | None, unless explicitly coded. | Triggers optimizations and development features. |
+| **Used For** | Conditional logic in app configuration. | Configuring webpack, libraries, and runtime settings. |
+| **Defaults** | No automatic behaviors, requires related variables (`APP_DEBUG`, etc.). | Predefined behaviors for `development` and `production`. |
 
 ---
 
